@@ -1,0 +1,4 @@
+#Wed Jan 17 14:54:58 ICT 2024
+base.0=D\:\\Training Prj\\Flutter\\appquizz_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
